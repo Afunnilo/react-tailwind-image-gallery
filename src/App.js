@@ -26,7 +26,7 @@ function App() {
         <img className="text-center mx-auto py-2" src="https://c.tenor.com/lNUZ97zN8lwAAAAM/spider-man-wtf.gif" alt="" />
       </h1>
       }
-      { isLoading ? <img src="https://thumbs.gfycat.com/LeadingHelplessFlounder-size_restricted.gif" className="text-6xl text-center mx-auto mt-32"/> : <div className="grid grid-cols-3 gap-4">
+      { isLoading ? <img src="https://thumbs.gfycat.com/LeadingHelplessFlounder-size_restricted.gif" alt="" className="text-6xl text-center mx-auto mt-32"/> : <div className="grid grid-cols-3 gap-4">
         {images.map(image => (
           <ImageCard key={image.id} image={image}/>
         ))}
