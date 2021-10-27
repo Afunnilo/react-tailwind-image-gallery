@@ -80,9 +80,9 @@ hr {
   color: inherit; /* 2 */
 }
 
-/**
+/*
 Text-level semantics
- ====================
+====================
 */
 
 /**
@@ -93,7 +93,7 @@ abbr[title] {
   text-decoration: underline dotted;
 }
 
-/*
+/**
 Add the correct font weight in Edge and Safari.
 */
 
