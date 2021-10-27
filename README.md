@@ -1,5 +1,5 @@
 
-A simple image galery made with react and tailwind. Added some spider-man gags for fun. =>(try typing rubbish in the search bar.)
+A simple image gallery using the pixabay API, made with react and tailwind. Added some spider-man gags for fun. =>(try typing rubbish in the search bar.)
 
 It is hosted on netlify - https://react-image-gallery-web.netlify.app/
 
